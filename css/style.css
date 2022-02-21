@@ -1,0 +1,39 @@
+/* Importing Google fonts */
+@import url("https://fonts.gooogleapis.com/css?family=Lora|Roboto");
+@import url("https://fonts.googleapis.com/css2?family=Lato");
+@import url("https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique");
+
+/* Importing all components file */
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/card.css");
+@import url("components/sidebar.css");
+
+
+
+/* General style rules for fonts and colours */
+body{
+	font-family: 'lato', sans-serif;
+	font-size: 18px;
+	background-color: rgb(240,240,240);
+	margin:0px;
+}
+
+
+h1, h2, h3{
+	font-family: 'Zen Kaku Gothic Antique', sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+	font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+
+
+
+
+
+

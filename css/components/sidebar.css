@@ -1,0 +1,25 @@
+.sidebar {
+  position: fixed;
+  width: 90px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color:#A8577E ;
+  border-right: 3px solid #A8577E;
+  color:white;
+  font-size:30px;
+}
+.sidebar a {
+  list-style: none;
+  padding-left: 0px;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  color:white;
+  font-size: :40px;
+}
+.sidebar ul {
+  list-style: none;
+  padding-left: 0px;
+  left:10px;
+  font-size: :40px;
+}
